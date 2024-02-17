@@ -1,0 +1,8 @@
+{
+  "name": "strade",
+  "logo": "https://github.com/mrjjmc/starkdrop/blob/main/img.jpg",
+  "rpc_url": "http://158.220.115.77:9944",
+  "explorer_url": "http://158.220.115.77:4000",
+  "metrics_endpoint": "http://158.220.115.77:9615/metrics",
+  "id": "a12264d0-3aca-497f-af09-724072737f61"
+}
